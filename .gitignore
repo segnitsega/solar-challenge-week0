@@ -2,3 +2,4 @@ myenv/
 data/
 *.csv
 .ipynb_checkpoints
+images/
